@@ -3,7 +3,9 @@
 [![banner](/Pictures/banner_1200x630.svg)](#)
 
 Monólita (`Monolita`) is a Latin (ID: `*Latn`) Display font designed by
-[The Monólita Project Team](https://www.behance.net/gallery/174159703/Monolita-Display-Font)
+[The Monólita Project Team](https://www.behance.net/gallery/174159703/Monolita-Display-Font).
+Its design is based on structured curved geometry forming a technological
+unique text.
 
 This font is ideal for eye-catching general use like poster title, poster text,
 poster footer text, movie title, movie notice headings, movie notice text, body
